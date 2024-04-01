@@ -37,11 +37,6 @@ To run the Movie Search App on your local machine, follow these steps:
 
 This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Future Enhancements
-
-- **Improved Search Features:** Planning to implement advanced search options, such as filtering by genre or year.
-- **User Authentication:** Explore adding user authentication to allow saving favorite movies or creating watchlists.
-
 ## Acknowledgements
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
